@@ -1,7 +1,7 @@
 import sys
-import solar_corr
-
 import warnings
+
+from solar_correlation_map import solar_corr
 
 warnings.filterwarnings("ignore")
 
